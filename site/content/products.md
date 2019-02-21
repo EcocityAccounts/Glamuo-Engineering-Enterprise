@@ -25,20 +25,7 @@ main:
 testimonials:
   - author: Greg Willson
     quote: >-
-      The morning is the best time to reach me for planning and discussion assembly options for green building, thermal system design with water for passive greenhouse design is my big interest right now.
+      Tiny food app design has taken all of my focus and I am proud to be able to provide something useful to the community in support of training new farmers and ensuring that there are reliable markets for their products.  Including 'shared shopping' as an option feels really important to intitially help communities where there local organic farming is limited, to access higher quality food at a lower price, and to participate in Tinyfood's 'organic food family challenge'.
       
-full_image: /img/products/products-full-width.jpg
-pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make better food a part of your life. Choose one of Tiny Food's monthly plans to access at your doorstep weekly or every other week. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
 ---
 
