@@ -1,24 +1,21 @@
 ---
-title: List your extra items for sale, community projects or trade.
+title: Tiny food is a flexible free app to help you buy better food at lower prices, and to allow farmers to sell direct at no cost.
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
 heading: How the Tiny Food Works
 description: >-
-      Tiny Food is a resource to help us share what we might have for projects and share labor and ideas in completing those projects well. 
+      Tiny Food prodives you with flexibility to list supermarket items and/or allow local farmers to log in and update their availabilities.
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: >
-        We seek to mentor young farmers to have a product ready for market, and assist them in managing their small business to success. Please check the food hub page for your area or start one. You can contact us directly for questions.
-    - image: /img/illustrations/coffee-gear.svg
-      text: >
-        We support small, carefully curated selection of local food tastes and cooking suggestions for every experience level.
+        Tiny Food works to develop mentor-mentee relationships between experienced and new farmers to help small businesses to succeed. Please check the food hub page for your area or start one. You can contact ( greg@scdhub.org ) us directly for questions.
     - image: /img/illustrations/tutorials.svg
       text: >
         Love motivates us to work within our own communities.
 main:
-  heading: Great food, no compromises
+  heading: Great food, local food, natural farming techniques
   description: >
     We believe successful local farmers and knowledge of our local environments are essetially woven togeter.
 
