@@ -1,6 +1,6 @@
 +++
 title = "Contact"
 type = "contact"
-page="/contact.html"
-image: "/img/tinyfood_contact.png"
+page = "/contact.html"
+image = "/img/tinyfood_contact.png"
 +++
