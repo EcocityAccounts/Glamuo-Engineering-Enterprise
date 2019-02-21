@@ -1,6 +1,6 @@
 ---
 title: How to start and maintain a 'Food Hub'
-date: 2017-01-04T15:04:10.000Z
+date: 2017-02-21T15:04:10.000Z
 description: >-
   Starting a food hub can be a simple affair. Tiny food .org is working to provide a one click solution and support for customizing the ood hub in its appearance and features for you.  We are supported by the Colorado not-for-profit business,
   Sustainable Community Development Hub, so please support them with a donation or volunteer time if you have the ability. to make a tax deductable donation, contact greg@scdhub.org.  
@@ -22,7 +22,3 @@ and his desire to name
 the objects of this world. 
 I think I’ll call this place Golgotha 
 and have some salad for dinner. 
-
-
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
-
