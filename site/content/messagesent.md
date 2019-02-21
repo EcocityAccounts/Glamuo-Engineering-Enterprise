@@ -1,7 +1,6 @@
 ---
 title: Message sent
 type: hubs
-page: /hubs.html
 image: /img/hubs/jumbotron.jpg
 heading: Your message has been sent, thank you
 description: >-
