@@ -1,4 +1,4 @@
-# Netlify CMS small-business template for Tiny Food Community Access and Education Project
+# Netlify CMS strip vue shop small-business template for Food Hub Services logistics, payment, product availability
 
 Local Food Shopping cart for public and food clubs
 
